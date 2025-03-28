@@ -59,7 +59,8 @@ func main() {
     fmt.Println(p1, c1)
     fmt.Println(p2, c2)
 }
-}```
+}
+```
 
 > Output
 > ![Screenshot bagian x](Output/1.png)
