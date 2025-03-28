@@ -55,7 +55,8 @@ func main() {
         fmt.Println("Titik di luar lingkaran 1 dan 2")
     }
 }
-}```
+}
+```
 
 > Output
 > ![Screenshot bagian x](Output/7_1.png)
@@ -157,7 +158,8 @@ func main() {
         }
     }
     fmt.Println("Frekuensi", freqNum, ":", count)
-}```
+}
+```
 
 > Output
 > ![Screenshot bagian x](Output/7_2.png)
@@ -227,7 +229,8 @@ func main() {
         fmt.Printf("Hasil %d: %s\n", i+1, p)
     }
 
-}```
+}
+```
 
 > Output
 > ![Screenshot bagian x](Output/7_3.png)
@@ -304,7 +307,8 @@ func main() {
         fmt.Println("false")
     }
 }
-}```
+}
+```
 
 > Output
 > ![Screenshot bagian x](Output/7_4.png)
