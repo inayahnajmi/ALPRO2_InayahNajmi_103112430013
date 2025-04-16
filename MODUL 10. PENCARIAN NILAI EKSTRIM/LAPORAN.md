@@ -54,7 +54,9 @@ func main() {
     fmt.Printf("Berat terkecil: %.2f\n", beratTerkecil)
     fmt.Printf("Berat terbesar: %.2f\n", beratTerbesar)
 
-}}```
+}}
+
+```
 
 > Output
 > ![Screenshot bagian x](Output/10_1.png)
@@ -100,7 +102,8 @@ func main() {
 
     fmt.Printf("%.2f\n", sum/float64(jumlahWadah))
 }
-}```
+}
+```
 
 > Output
 > ![Screenshot bagian x](Output/10_2.png)
@@ -157,7 +160,8 @@ func main() {
     fmt.Printf("Rata-rata berat balita: %.2f kg\n", rata)
 }
 
-}```
+}
+```
 
 > Output
 > ![Screenshot bagian x](Output/10_3.png)
